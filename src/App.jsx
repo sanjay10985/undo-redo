@@ -130,8 +130,9 @@ const App = () => {
         <p className="text-gray-400">
           View the{" "}
           <a
-            href="https://github.com/yourusername/the-dot"
+            href="https://github.com/sanjay10985/undo-redo"
             className="text-gray-600 hover:text-gray-800 transition-colors"
+            target="_blank"
           >
             source code on GitHub
           </a>
